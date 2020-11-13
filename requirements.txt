@@ -1,4 +1,4 @@
 keras==2.0.5
-tensorflow-gpu==1.1.0
+tensorflow-gpu==2.3.1
 cudnn==6.0
 cudatoolkit==8.0
